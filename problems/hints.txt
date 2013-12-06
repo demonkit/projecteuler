@@ -1,0 +1,11 @@
+3.
+http://math.stackexchange.com/questions/389675/largest-prime-factor-of-600851475143
+
+4.
+http://stackoverflow.com/questions/12674389/highest-palindrome-with-3-digit-numbers-in-python
+
+5.
+http://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-optimize-my-solution
+
+9.
+http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets
