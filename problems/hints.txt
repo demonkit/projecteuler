@@ -9,3 +9,7 @@ http://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-o
 
 9.
 http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets
+
+
+12.
+http://www.mathblog.dk/triangle-number-with-more-than-500-divisors/
